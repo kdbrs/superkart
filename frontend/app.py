@@ -4,7 +4,8 @@ import pandas as pd
 import requests
 
 # Base URL of the Flask backend
-BACKEND_URL = "http://backend:7860"
+# BACKEND_URL = "http://backend:7860"
+BACKEND_URL = "https://improved-acorn-x5x5wxqr4jq53x6r-7860.app.github.dev"
 
 # Page title
 st.title("SuperKart System")
